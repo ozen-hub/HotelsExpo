@@ -60,4 +60,25 @@
   outline: none;
 }
 
+.date-outer {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
+.date-box {
+  flex: 1;
+  height: 100%;
+  background-color: white;
+}
+.date-box input {
+  width: 100%;
+  height: 100%;
+  background: none;
+  border: none;
+}
+.date-box input:focus {
+  outline: none;
+}
+
 /*# sourceMappingURL=home.css.map */
