@@ -12,7 +12,12 @@
 </header>
 <body>
   <div class="outer">
-
+    <div class="left">
+      <h2>HotelsExpo.com</h2>
+    </div>
+    <div class="right">
+      <button>Manage Buisiness</button>
+    </div>
   </div>
 </body>
 </html>
