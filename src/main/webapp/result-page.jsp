@@ -45,14 +45,14 @@
                         </div>
                     </div>
                     <div class="col-12 input-outer  special-outer">
-                        <div class="special-input-outer">
+                        <div class="special-input-outer" style="margin-right: 2px">
                             <select name="">
                                 <option value="1">1 Adult</option>
                                 <option value="2">2 Adults</option>
                                 <option value="3">3 Adults</option>
                             </select>
                         </div>
-                        <div class="special-input-outer">
+                        <div class="special-input-outer" style="margin-right: 2px">
                             <select name="">
                                 <option value="0">0 Child</option>
                                 <option value="1">1 Child</option>
@@ -77,8 +77,132 @@
 
 
             </div>
+            <div class="filter-wrapper">
+                <h5>Fun things to do</h5>
+                <ul>
+                    <li><input type="checkbox"> Hiking</li>
+                    <li><input type="checkbox"> Walking tours</li>
+                    <li><input type="checkbox"> Spa facilities</li>
+                    <li><input type="checkbox"> Evening entertainment</li>
+                </ul>
+            </div>
+            <div class="filter-wrapper">
+                <h5>Property Type</h5>
+                <ul>
+                    <li><input type="checkbox"> Hotels</li>
+                    <li><input type="checkbox"> Guesthouses</li>
+                    <li><input type="checkbox"> Homestays</li>
+                    <li><input type="checkbox"> Apartments</li>
+                </ul>
+            </div>
         </div>
-        <div class="right-outer context col-9"></div>
+        <div class="right-outer context col-9">
+            <p class="alert alert-dark">
+                2500 Properties Found
+            </p>
+            <div class="result-outer">
+                <div class="result-inner">
+                    <div class="result-inner-left">
+                        <img class="img-thumbnail"
+                        src="https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+                        alt="">
+                    </div>
+                    <div class="result-inner-right">
+                        <div class="details">
+                            <h4>The Summit</h4>
+                            <p class="desc">
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam cupiditate expedita
+                                illum, itaque maxime praesentium voluptates! Adipisci asperiores autem commodi ducimus
+                                id odio omnis, quam temporibus tenetur totam vero voluptatum.
+                            </p>
+                            <p class="alert alert-danger">
+                                Deals are available
+                            </p>
+                        </div>
+                        <div class="button">
+                            <button class="btn btn-primary btn-sm">
+                                Book Now
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="result-inner">
+                    <div class="result-inner-left">
+                        <img class="img-thumbnail"
+                             src="https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+                             alt="">
+                    </div>
+                    <div class="result-inner-right">
+                        <div class="details">
+                            <h4>The Summit</h4>
+                            <p class="desc">
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam cupiditate expedita
+                                illum, itaque maxime praesentium voluptates! Adipisci asperiores autem commodi ducimus
+                                id odio omnis, quam temporibus tenetur totam vero voluptatum.
+                            </p>
+                            <p class="alert alert-danger">
+                                Deals are available
+                            </p>
+                        </div>
+                        <div class="button">
+                            <button class="btn btn-primary btn-sm">
+                                Book Now
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="result-inner">
+                    <div class="result-inner-left">
+                        <img class="img-thumbnail"
+                             src="https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+                             alt="">
+                    </div>
+                    <div class="result-inner-right">
+                        <div class="details">
+                            <h4>The Summit</h4>
+                            <p class="desc">
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam cupiditate expedita
+                                illum, itaque maxime praesentium voluptates! Adipisci asperiores autem commodi ducimus
+                                id odio omnis, quam temporibus tenetur totam vero voluptatum.
+                            </p>
+                            <p class="alert alert-danger">
+                                Deals are available
+                            </p>
+                        </div>
+                        <div class="button">
+                            <button class="btn btn-primary btn-sm">
+                                Book Now
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="result-inner">
+                    <div class="result-inner-left">
+                        <img class="img-thumbnail"
+                             src="https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+                             alt="">
+                    </div>
+                    <div class="result-inner-right">
+                        <div class="details">
+                            <h4>The Summit</h4>
+                            <p class="desc">
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam cupiditate expedita
+                                illum, itaque maxime praesentium voluptates! Adipisci asperiores autem commodi ducimus
+                                id odio omnis, quam temporibus tenetur totam vero voluptatum.
+                            </p>
+                            <p class="alert alert-danger">
+                                Deals are available
+                            </p>
+                        </div>
+                        <div class="button">
+                            <button class="btn btn-primary btn-sm">
+                                Book Now
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 <%--content--%>
