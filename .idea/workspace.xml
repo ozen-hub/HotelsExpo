@@ -9,12 +9,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85fb5827-619c-4545-9369-82708170b915" name="Changes" comment="10">
+    <list default="true" id="85fb5827-619c-4545-9369-82708170b915" name="Changes" comment="11">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/result-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/result-page.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/result-page.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/MainFooter.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/MainFooter.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/home.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/home.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/result-page.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/result-page.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/footer.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/footer.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/footer.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +178,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668002368417</updated>
-      <workItem from="1668002372114" duration="12001000" />
+      <workItem from="1668002372114" duration="13590000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1668003877232</created>
@@ -252,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668014088577</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="11">
+      <created>1668014527556</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668014527556</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +294,8 @@
     <MESSAGE value="8" />
     <MESSAGE value="9" />
     <MESSAGE value="10" />
-    <option name="LAST_COMMIT_MESSAGE" value="10" />
+    <MESSAGE value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="11" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
