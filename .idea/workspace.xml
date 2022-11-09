@@ -9,16 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85fb5827-619c-4545-9369-82708170b915" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/MainHader.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/_colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/_flex-manager.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/header.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    <list default="true" id="85fb5827-619c-4545-9369-82708170b915" name="Changes" comment="2">
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/_colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/widgets/_colors.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/_flex-manager.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/widgets/_flex-manager.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/header.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/header.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/header.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,11 +51,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Hasika/Desktop",
+    "last_opened_file_path": "D:/bootcamp/full-stack/1-batch/jsp-servlet/project/HotelsExpo/src/main/webapp/styles/widgets",
     "list.type.of.created.stylesheet": "SCSS",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -71,6 +67,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\bootcamp\full-stack\1-batch\jsp-servlet\project\HotelsExpo\src\main\webapp\asserts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\bootcamp\full-stack\1-batch\jsp-servlet\project\HotelsExpo\src\main\webapp\styles\widgets" />
     </key>
   </component>
   <component name="RunManager">
@@ -172,7 +171,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668002368417</updated>
-      <workItem from="1668002372114" duration="2763000" />
+      <workItem from="1668002372114" duration="3084000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1668003877232</created>
@@ -188,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668004110404</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2">
+      <created>1668005274302</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668005274302</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,9 +212,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

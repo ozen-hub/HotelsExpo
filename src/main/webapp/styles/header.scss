@@ -1,5 +1,5 @@
-@use "colors" as *;
-@use "flex-manager" as *;
+@use "widgets/colors" as *;
+@use "widgets/flex-manager" as *;
 .outer{
  @include flexView(row);
   width: 100%;
