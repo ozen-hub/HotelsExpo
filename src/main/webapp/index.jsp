@@ -77,9 +77,28 @@
         </div>
     </div>
 </div>
+<div class="hotels-outer">
+    <div class="row">
+        <div class="col-4">
+            <div class="image-outer" style="background: url('https://cf.bstatic.com/xdata/images/hotel/square600/87428762.webp?k=9a065fcd92168145d8c8358701662c76793535597b678efc8f6921c8e3c188e6&o=&s=1')"></div>
+        </div>
+        <div class="col-4">
+            <div class="image-outer" style="background: url('https://cf.bstatic.com/xdata/images/hotel/square600/352170812.webp?k=75ffc5f9eb3f3cc394b901714c1544757b05849dbbdf30e4fc8c6df53931c131&o=&s=1')"></div>
+        </div>
+        <div class="col-4">
+            <div class="image-outer" style="background: url('https://cf.bstatic.com/xdata/images/hotel/square600/13125860.webp?k=e148feeb802ac3d28d1391dad9e4cf1e12d9231f897d0b53ca067bde8a9d3355&o=&s=1')"></div>
+        </div>
+    </div>
+</div>
 <%--content--%>
+
+<%--footer--%>
+<jsp:include page="MainFooter.jsp"/>
+<%--footer--%>
+
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
-<script src="https://code.jquery.com/ui/1.13.1/jquery-ui.min.js" integrity="sha256-eTyxS0rkjpLEo16uXTS0uVCS4815lc40K2iVpWDvdSY=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/ui/1.13.1/jquery-ui.min.js"
+        integrity="sha256-eTyxS0rkjpLEo16uXTS0uVCS4815lc40K2iVpWDvdSY=" crossorigin="anonymous"></script>
 <script src="./js/home.js"></script>
 
 <!--Start of Tawk.to Script-->
