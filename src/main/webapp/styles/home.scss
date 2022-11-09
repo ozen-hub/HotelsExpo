@@ -32,7 +32,30 @@
     .inner {
       width: 95%;
       height: 100%;
-      background-color: rgba(44, 62, 80,0.5);
+      @include flexView(row);
+      background-color: rgba(44, 62, 80, 0.5);
     }
+  }
+}
+
+.row {
+  margin: 0 !important;
+  width: 100%;
+}
+
+.box {
+  border: 1px solid red;
+  height: 40px;
+}
+
+.search-outer {
+  width: 100%;
+  border: none;
+  padding: 0 10px;
+  height: 100%;
+  background-color: white;
+
+  &:focus {
+    outline: none;
   }
 }
