@@ -45,7 +45,6 @@
 }
 
 .box {
-  border: 1px solid red;
   height: 40px;
 }
 
@@ -60,7 +59,7 @@
   outline: none;
 }
 
-.date-outer {
+.date-outer, .special-outer {
   display: flex;
   align-items: center;
   flex-direction: row;
@@ -80,6 +79,27 @@
 }
 .date-box input:focus {
   outline: none;
+}
+
+.special-input-outer {
+  flex: 1;
+  height: 100%;
+  background-color: white;
+}
+.special-input-outer select {
+  width: 100%;
+  height: 100%;
+  background: none;
+  border: none;
+  padding: 0 10px;
+}
+.special-input-outer select:focus {
+  outline: none;
+}
+
+.btn-primary {
+  width: 100%;
+  height: 100% !important;
 }
 
 /*# sourceMappingURL=home.css.map */

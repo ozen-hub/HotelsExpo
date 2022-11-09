@@ -8,6 +8,9 @@
     <link rel="icon" type="image/x-png" href="./asserts/favicon.png">
     <link rel="stylesheet" href="./styles/home.css">
 
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+
+
     <!-- CSS only -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
@@ -41,8 +44,35 @@
                         <input type="text" id="to" name="to">
                     </div>
                 </div>
-                <div class="col-3 box"></div>
-                <div class="col-2 box"></div>
+                <div class="col-3 box special-outer">
+                    <div class="special-input-outer">
+                        <select name="">
+                            <option value="1">1 Adult</option>
+                            <option value="2">2 Adults</option>
+                            <option value="3">3 Adults</option>
+                        </select>
+                    </div>
+                    <div class="special-input-outer">
+                        <select name="">
+                            <option value="0">0 Child</option>
+                            <option value="1">1 Child</option>
+                            <option value="2">2 Child</option>
+                            <option value="3">3 Child</option>
+                        </select>
+                    </div>
+                    <div class="special-input-outer">
+                        <select name="">
+                            <option value="1">1 Room</option>
+                            <option value="2">2 Rooms</option>
+                            <option value="3">3 Rooms</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-2 box">
+                    <button class="btn btn-primary btn-sm">
+                        Search
+                    </button>
+                </div>
             </div>
         </div>
     </div>
