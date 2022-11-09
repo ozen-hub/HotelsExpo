@@ -28,6 +28,7 @@
 <%--content--%>
 <div class="content-outer">
     <h1>RUN TO THE SUN & SAVE</h1>
+    <form action="/result-page.jsp" style="width: 100%">
     <div class="reservation-making-outer">
         <div class="inner">
             <div class="row">
@@ -69,13 +70,14 @@
                     </div>
                 </div>
                 <div class="col-2 box">
-                    <button class="btn btn-primary btn-sm">
+                    <button type="submit" class="btn btn-primary btn-sm">
                         Search
                     </button>
                 </div>
             </div>
         </div>
     </div>
+    </form>
 </div>
 <div class="hotels-outer">
     <div class="row">
