@@ -1,6 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Russo+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 * {
   margin: 0;
   padding: 0;
+}
+
+.content-outer {
+  width: 100%;
+  height: 450px;
+  background: url("https://img.freepik.com/free-photo/girl-looking-forward-mountains_7502-9618.jpg?w=826&t=st=1668007700~exp=1668008300~hmac=1b1bb9829efbbb54cb9a01d717b50bbd8288b32c458dce24cddde50a55a44727") center no-repeat;
+  background-size: cover;
+  padding-bottom: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+.content-outer h1 {
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  padding: 0 20px;
+}
+.content-outer .reservation-making-outer {
+  width: 100%;
+  height: 100px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.content-outer .reservation-making-outer .inner {
+  width: 95%;
+  height: 100%;
+  background-color: rgba(44, 62, 80, 0.5);
 }
 
 /*# sourceMappingURL=home.css.map */

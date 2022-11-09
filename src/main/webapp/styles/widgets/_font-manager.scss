@@ -9,8 +9,8 @@ $general-font-weight:(
         regular:400,medium:500,bold:bold);
 
 @function fontSize($size){
-  @return map-get(general-font-sizes,$size);
+  @return map-get($general-font-sizes,$size);
 }
 @function fontWeight($weight){
-  @return map-get(general-font-weight,$weight);
+  @return map-get($general-font-weight,$weight);
 }

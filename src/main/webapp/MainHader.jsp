@@ -16,7 +16,7 @@
       <h2>HotelsExpo.com</h2>
     </div>
     <div class="right">
-      <button>Manage Buisiness</button>
+      <button>Manage Business</button>
     </div>
   </div>
 </body>

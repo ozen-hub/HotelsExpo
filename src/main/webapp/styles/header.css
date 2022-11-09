@@ -19,7 +19,7 @@
 .outer .left h2 {
   font-family: "Russo One", sans-serif;
   font-size: 25px;
-  /*font-weight: fontWeight(medium);*/
+  font-weight: 400;
   color: white;
 }
 .outer .right {

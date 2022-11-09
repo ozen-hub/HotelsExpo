@@ -10,6 +10,19 @@
     <title>HotelsExpo | HOME</title>
 </head>
 <body>
+<%--header--%>
 <jsp:include page="MainHader.jsp"/>
+<%--header--%>
+
+<%--content--%>
+<div class="content-outer">
+<h1>RUN TO THE SUN & SAVE</h1>
+    <div class="reservation-making-outer">
+        <div class="inner">
+
+        </div>
+    </div>
+</div>
+<%--content--%>
 </body>
 </html>

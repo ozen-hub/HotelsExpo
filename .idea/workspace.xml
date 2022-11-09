@@ -9,13 +9,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85fb5827-619c-4545-9369-82708170b915" name="Changes" comment="3">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/widgets/_font-manager.scss" afterDir="false" />
+    <list default="true" id="85fb5827-619c-4545-9369-82708170b915" name="Changes" comment="4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/MainHader.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/MainHader.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/header.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/header.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/home.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/home.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/widgets/_font-manager.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/widgets/_font-manager.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +177,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668002368417</updated>
-      <workItem from="1668002372114" duration="4316000" />
+      <workItem from="1668002372114" duration="5945000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1668003877232</created>
@@ -203,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668005496257</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="4">
+      <created>1668006999423</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668006999424</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,7 +237,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="2" />
     <MESSAGE value="3" />
-    <option name="LAST_COMMIT_MESSAGE" value="3" />
+    <MESSAGE value="4" />
+    <option name="LAST_COMMIT_MESSAGE" value="4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
