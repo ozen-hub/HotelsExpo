@@ -9,10 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85fb5827-619c-4545-9369-82708170b915" name="Changes" comment="15">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/signup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/signup.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/signup.jsp" afterDir="false" />
+    <list default="true" id="85fb5827-619c-4545-9369-82708170b915" name="Changes" comment="16">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hotelexpo/pos/servlet/UserServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +23,7 @@
         <option value="Jsp File" />
         <option value="SCSS File" />
         <option value="JavaScript File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -174,7 +173,7 @@
       <workItem from="1668002372114" duration="13590000" />
       <workItem from="1668017116514" duration="1786000" />
       <workItem from="1668051554510" duration="83000" />
-      <workItem from="1668435864252" duration="3858000" />
+      <workItem from="1668435864252" duration="4614000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1668003877232</created>
@@ -288,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668438833682</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="16">
+      <created>1668439749648</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1668439749648</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,7 +329,8 @@
     <MESSAGE value="13" />
     <MESSAGE value="14" />
     <MESSAGE value="15" />
-    <option name="LAST_COMMIT_MESSAGE" value="15" />
+    <MESSAGE value="16" />
+    <option name="LAST_COMMIT_MESSAGE" value="16" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
