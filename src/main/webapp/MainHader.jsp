@@ -8,16 +8,17 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <header>
-  <link rel="stylesheet" href="./styles/header.css">
+    <link rel="stylesheet" href="./styles/header.css">
 </header>
 <body>
-  <div class="outer">
+<div class="outer">
     <div class="left">
-      <h2>HotelsExpo.com</h2>
+        <h2>HotelsExpo.com</h2>
     </div>
     <div class="right">
-      <button>Manage Business</button>
+        <button onclick="navigateToDashboard()">Manage Business</button>
     </div>
-  </div>
+</div>
+<script src="js/header.js"></script>
 </body>
 </html>

@@ -10,11 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85fb5827-619c-4545-9369-82708170b915" name="Changes" comment="11">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/login.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/login.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/result-page.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/result-page.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/result-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/result-page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/result-page.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/result-page.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/result-page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/result-page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/MainHader.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/MainHader.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +26,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="Jsp File" />
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -51,21 +53,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/bootcamp/full-stack/1-batch/jsp-servlet/project/HotelsExpo/src/main/webapp/styles/widgets&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;watcher.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/bootcamp/full-stack/1-batch/jsp-servlet/project/HotelsExpo",
+    "list.type.of.created.stylesheet": "SCSS",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "watcher.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\bootcamp\full-stack\1-batch\jsp-servlet\project\HotelsExpo\src\main\webapp\asserts" />
@@ -175,6 +177,8 @@
       <updated>1668002368417</updated>
       <workItem from="1668002372114" duration="13590000" />
       <workItem from="1668017116514" duration="1786000" />
+      <workItem from="1668051554510" duration="83000" />
+      <workItem from="1668435864252" duration="550000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1668003877232</created>
