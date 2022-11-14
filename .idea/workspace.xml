@@ -9,14 +9,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85fb5827-619c-4545-9369-82708170b915" name="Changes" comment="13">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/MainHader.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/MainHader.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/header.js" afterDir="false" />
+    <list default="true" id="85fb5827-619c-4545-9369-82708170b915" name="Changes" comment="14">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/signup.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/signup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/signup.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/signup.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/login.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/login.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/login.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/login.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +178,7 @@
       <workItem from="1668002372114" duration="13590000" />
       <workItem from="1668017116514" duration="1786000" />
       <workItem from="1668051554510" duration="83000" />
-      <workItem from="1668435864252" duration="2115000" />
+      <workItem from="1668435864252" duration="2737000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1668003877232</created>
@@ -278,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668437568098</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="14">
+      <created>1668438014861</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1668438014861</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,7 +318,8 @@
     <MESSAGE value="11" />
     <MESSAGE value="12" />
     <MESSAGE value="13" />
-    <option name="LAST_COMMIT_MESSAGE" value="13" />
+    <MESSAGE value="14" />
+    <option name="LAST_COMMIT_MESSAGE" value="14" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

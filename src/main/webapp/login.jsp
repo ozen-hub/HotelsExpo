@@ -41,7 +41,7 @@
                             <hr>
                         </div>
                         <div class="col-12">
-                            <input type="button" value="Create an Account" class="btn btn-dark" style="width: 100%">
+                            <input type="button" onclick="navigateToSignup()" value="Create an Account" class="btn btn-dark" style="width: 100%">
                         </div>
                     </div>
                 </form>
@@ -58,4 +58,5 @@
 <jsp:include page="MainFooter.jsp"/>
 <%--footer--%>
 </body>
+<script src="js/login.js"></script>
 </html>
