@@ -10,4 +10,34 @@
   height: 80%;
   border: 1px solid #ecf0f1;
   background-color: #ecf0f1;
+  display: flex;
+}
+.box{
+  flex: 1;
+  height: 100%;
+}
+.left{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.right{
+  background: url('https://www.gannett-cdn.com/-mm-/05b227ad5b8ad4e9dcb53af4f31d7fbdb7fa901b/c=0-64-2119-1259/local/-/media/USATODAY/USATODAY/2014/08/13/1407953244000-177513283.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.details-outer{
+  height: auto;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+}
+h3{
+  text-align: center;
+  width: 100%;
+  padding-bottom: 50px;
+}
+.col-12{
+  margin-bottom: 10px;
 }
