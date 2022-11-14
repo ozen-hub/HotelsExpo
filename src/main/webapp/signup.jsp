@@ -29,23 +29,23 @@
         <form action="" style="width: 100%">
           <div class="row" style="margin: 0">
             <div class="col-12">
-              <input type="email" class="form-control" placeholder="email">
+              <input type="email" id="email" class="form-control" placeholder="email">
             </div>
             <div class="col-12">
               <div class="name-outer">
-                <input type="text" class="form-control" placeholder="First Name">
+                <input type="text" id="f_name" class="form-control" placeholder="First Name">
                 &nbsp;
-                <input type="text" class="form-control" placeholder="Last Name">
+                <input type="text" id="l_name" class="form-control" placeholder="Last Name">
               </div>
             </div>
             <div class="col-12">
-              <input type="tel" class="form-control" placeholder="Contact">
+              <input type="tel" id="contact" class="form-control" placeholder="Contact">
             </div>
             <div class="col-12">
-              <input type="password" class="form-control" placeholder="password">
+              <input type="password" id="password" class="form-control" placeholder="password">
             </div>
             <div class="col-12">
-              <input type="button" value="Signup" class="btn btn-primary" style="width: 100%">
+              <input type="button" onclick="signup()" value="Signup" class="btn btn-primary" style="width: 100%">
             </div>
             <div class="col-12">
               <hr>
@@ -65,8 +65,10 @@
 </div>
 
 <%--footer--%>
+
 <jsp:include page="MainFooter.jsp"/>
 <%--footer--%>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
 <script src="js/signup.js"></script>
 </body>
 </html>
