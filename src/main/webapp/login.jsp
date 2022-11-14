@@ -17,11 +17,14 @@
 
 </head>
 <body>
-<div class="outer">
+<%--header--%>
+<jsp:include page="MainHader.jsp"/>
+<%--header--%>
+<div class="outer-login">
     <div class="login-inner">
-        <div class="box left">
+        <div class="box left-box">
             <div class="details-outer">
-                <h3>Welcome Back</h3>
+                <h3 class="title-data">Welcome Back</h3>
 
                 <form action="" style="width: 100%">
                     <div class="row" style="margin: 0">
@@ -45,10 +48,14 @@
 
             </div>
         </div>
-        <div class="box right">
+        <div class="box right-box">
 
         </div>
     </div>
 </div>
+
+<%--footer--%>
+<jsp:include page="MainFooter.jsp"/>
+<%--footer--%>
 </body>
 </html>
